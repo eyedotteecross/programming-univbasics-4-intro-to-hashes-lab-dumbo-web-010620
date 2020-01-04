@@ -3,7 +3,7 @@ Hash.new
 end 
 
 def my_hash
-h = new_hash[:mood] = "determined"
-return h
-end 
-
+h = new_hash
+h[:mood] = "determined"
+h
+end
