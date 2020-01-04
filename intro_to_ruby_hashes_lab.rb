@@ -14,3 +14,7 @@ def id_generator
 id = {id: 64}  
 end  
 
+def my_hash_creator (key,value)
+heres_your_hash = {:key => value}  
+end 
+
