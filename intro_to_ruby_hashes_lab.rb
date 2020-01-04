@@ -10,5 +10,4 @@ end
 
 def pioneer_hash
 pioneer = {:name => 'Grace Hopper'}
-pioneer
 end 
