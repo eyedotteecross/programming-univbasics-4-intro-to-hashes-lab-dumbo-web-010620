@@ -9,7 +9,7 @@ h
 end
 
 def pioneer_hash
-pioneer = Hash.new 
+pioneer = new_hash 
 pioneer[:name] = "Grace Hopper"
 pioneer
 end 
