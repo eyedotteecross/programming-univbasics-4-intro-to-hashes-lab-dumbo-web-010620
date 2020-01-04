@@ -1,5 +1,5 @@
 def new_hash
-Hash.new  
+{}  
 end 
 
 def my_hash
@@ -14,4 +14,5 @@ end
 
 def id_generator
 id = {id: 64}  
-end   
+end  
+
