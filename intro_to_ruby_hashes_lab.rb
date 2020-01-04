@@ -9,7 +9,7 @@ h
 end
 
 def 
-p = Array.new 
+p = Hash.new 
 p[:name] = "Grace Hopper"
 p 
 end 
