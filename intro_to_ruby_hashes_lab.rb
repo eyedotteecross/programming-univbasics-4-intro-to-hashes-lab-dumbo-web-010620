@@ -8,6 +8,6 @@ h[:mood] = "determined"
 h
 end
 
-def pioneer_hash
+def pioneer
 pioneer = {:name => 'Grace Hopper'}
 end 
