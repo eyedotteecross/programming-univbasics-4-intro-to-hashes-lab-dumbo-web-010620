@@ -10,4 +10,8 @@ end
 
 def pioneer
 pioneer = {:name => 'Grace Hopper'}
-end 
+end
+
+def id_generator
+id = {id: 64}  
+end   
