@@ -3,5 +3,6 @@ Hash.new
 end 
 
 def my_hash
-new_hash[:mood] = de
+new_hash[:mood] = determined
 end 
+
