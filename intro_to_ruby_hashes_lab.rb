@@ -3,9 +3,7 @@ def new_hash
 end 
 
 def my_hash
-h = new_hash
-h[:mood] = "determined"
-h
+h = {:mood => "determined"}
 end
 
 def pioneer
