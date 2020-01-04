@@ -8,8 +8,8 @@ h[:mood] = "determined"
 h
 end
 
-def 
-p = Hash.new 
-p[:name] = "Grace Hopper"
-p 
+def pioneer_hash
+pioneer = Hash.new 
+pioneer[:name] = "Grace Hopper"
+pioneer
 end 
